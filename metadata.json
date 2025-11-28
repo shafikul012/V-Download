@@ -1,0 +1,5 @@
+{
+  "name": "V Download",
+  "description": "A modern, VidMate-inspired video downloader and browser simulation. Features a smart browser, multi-format download simulation, and trending video discovery using Gemini AI.",
+  "requestFramePermissions": []
+}
